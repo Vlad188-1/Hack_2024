@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+--extra-index-url https://download.pytorch.org/whl/cu118
+tqdm
+confz
+numpy
+pandas
+ultralytics
+opencv-python
+timm==0.9.16
