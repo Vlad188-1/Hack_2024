@@ -1,11 +1,5 @@
 <h1 align="center">Окружной хакатон СКФО Грозный (Кейс: Формирование регистраций животных) - 05.07.2024 - 07.07.2024</h1>
 
-[//]: # (<p align="center">)
-
-[//]: # (    <img src="assets/picture_2.png" height="150">)
-
-[//]: # (</p>)
-
 <p align="center">
     <img src="assets/picture.jpg" height="400">
 </p>
